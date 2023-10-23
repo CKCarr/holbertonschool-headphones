@@ -1,4 +1,4 @@
-# Objective: UI/UX designer -[ Implement a design from scratch using figma mockup
+# Objective: UI/UX designer - Implement a design from scratch using figma mockup
 
 [HolbertonSchool-Headphones Webpage](https://ckcarr.github.io/holbertonschool-headphones/)
 <p> Read and be familiar with Figma</p>
