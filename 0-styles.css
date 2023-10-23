@@ -158,8 +158,6 @@ a:active {
 .logo {
     width: 200px;
     height: auto;
-
-    border: 5px solid green;
 }
 
 .nav-list {
@@ -188,10 +186,8 @@ a:active {
 }
 
 .header_container {
-    border: 5px solid red;
-    
+
     padding-top: 40px;
-    justify-content: center;
 }
 
 .header_container:first-child {
@@ -199,8 +195,7 @@ a:active {
 }
 
 .nav-icon {
-    border: 5px solid orange;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-left: 15px;
     inline-size: 95px;
     display: inline-block;
